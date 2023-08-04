@@ -1,12 +1,13 @@
 
 
-![](https://github.com/Di-Renji/RecursosRandom/blob/master/intro-gif01.gif)
+![](https://github.com/Di-Renji/RecursosRandom/blob/master/Joel%20l.a..gif)
 
 
 
 <h1 align="center">Hi 👋😁, I'm Joel L.A.</h1>
-<h3 align="center">A passionate Developer from Perú </h3>
+<h3 align="center">A passionate Developer from Perú, Aspiring to be a Java Fullstack Developer </h3>
 
+</br></br>
 # 💫 About Me:
 👨‍💻 I’m currently working as a Freelancer<br>🤝 I’m looking to collaborate as a Web Developer<br>🌱 I’m currently learning Java FullStack<br>💬 You can contact me: https://w.app/DiRenji
 
