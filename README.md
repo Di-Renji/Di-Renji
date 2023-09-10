@@ -9,7 +9,7 @@
 
 </br></br>
 # 💫 About Me:
-👨‍💻 I’m currently working as a Freelancer<br>🤝 I’m looking to collaborate as a Web Developer<br>🌱 I’m currently learning Java FullStack<br>💬 You can contact me: https://w.app/DiRenji
+👨‍💻 I’m currently working as a Freelancer<br>🤝 I’m looking to collaborate as a Web Developer<br>🌱 I’m currently learning Java FullStack<br>💬 You can contact me: https://acortar.link/5XFuhU
 
 
 ## 🌐 Socials:
